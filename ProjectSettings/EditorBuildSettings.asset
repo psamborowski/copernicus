@@ -18,12 +18,18 @@ EditorBuildSettings:
     path: Assets/Scenes/Level1.unity
     guid: 17a2943262025864f8c1ef0489d1df7c
   - enabled: 1
+    path: Assets/Scenes/Intro2.unity
+    guid: a2ca47fcd737e894d892c4fa743fcaa1
+  - enabled: 1
     path: Assets/Scenes/Level2.unity
     guid: e9a6117e17baead45868107033290c8c
   - enabled: 1
+    path: Assets/Scenes/Intro3.unity
+    guid: 0b7da00cecd06604b8013a209f6f42a8
+  - enabled: 1
     path: Assets/Scenes/Level3.unity
     guid: 33b87ab3d2b09754e8ede47160fd5775
-  - enabled: 0
-    path: Assets/Scenes/chopsticks.unity
-    guid: 73f452c28be84d141865c21b8880df19
+  - enabled: 1
+    path: Assets/Scenes/Outro.unity
+    guid: 07ae1d19f832a5d4ab75fe23a4525790
   m_configObjects: {}
